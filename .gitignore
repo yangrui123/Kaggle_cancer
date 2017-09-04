@@ -1,0 +1,7 @@
+*.pyc
+.idea/Kaggle_cancer.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+data/
